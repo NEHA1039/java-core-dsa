@@ -1,3 +1,3 @@
-## Day 12 Progress
-- [x] Abstraction
-- [ x] Longest word
+## Day 13 Progress
+- [x] Interface
+- [ x] Character frequency
