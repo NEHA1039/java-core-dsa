@@ -1,3 +1,3 @@
-## Day 13 Progress
-- [x] Interface
-- [ x] Character frequency
+## Day 14 Progress
+- [x] Arraylist
+- [ x] traverse linkedlist
